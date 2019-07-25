@@ -10,6 +10,7 @@ Therefore, via Divide And rule we thought of bringing to you such a 'processor l
 3. Our approach is language-agnostic. Your job as a developer is to give us your pre-existing distributed code. We scale it with all the browsers available to us and produce result.
 
 **How is this possible?**
+
 Divide and Rule is an application which allows you to run your job in a distributed way such that it utilizes compute power of all the machines connected to us. Just do the following:
 1. Create a distributed task in any language of your choice.
 2. We compile your distributed code into a web assembly and execute it on a browser.
